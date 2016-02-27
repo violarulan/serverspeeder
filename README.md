@@ -12,9 +12,9 @@ Kernel download at : [https://storage.fantasy.pe/serverSpeeder](https://storage.
 Installer(without license) download at : [https://crystal.fantasy.pe/build.html](https://crystal.fantasy.pe/build.html)
 
 
-License generate at : https://drugs.fantasy.pe/serverspeeder.php?hwaddr=&bandwidth=
+License(valid until 2999-12-31) generate at : https://drugs.fantasy.pe/serverspeeder.php?hwaddr=&bandwidth=
 
-hwaddr -> your mac address(usually eth0)
+hwaddr > your mac address(usually eth0)
 
-bandwidth -> max acce bandwidth(0 for unlimited)
+bandwidth > max acce bandwidth(0 for unlimited)
 
