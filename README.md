@@ -7,7 +7,7 @@ Version `3.10.*` is recommended.
 
 Installer(without license) download at : [https://crystal.fantasy.pe/build.html](https://crystal.fantasy.pe/build.html)
 
-License(valid until 2999-12-31) generate at : https://drugs.fantasy.pe/serverspeeder.php?hwaddr<YOUR_MAC_ADDRESS>&bandwidth=<BANDWIDTH_Kbps>
+License(valid until 2999-12-31) generate at : https://drugs.fantasy.pe/serverspeeder.php?hwaddr=YOUR_MAC_ADDRESS&bandwidth=BANDWIDTH_Kbps
 
 hwaddr > your mac address(usually eth0)
 
